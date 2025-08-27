@@ -18,7 +18,7 @@ Você pode me encontrar nas redes sociais abaixo:
 </p><a href="https://www.instagram.com/renisantos" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>Aprendendo e se aprofundando nas tecnologias listadas a baixo
+</p>                           Estudando e se aprofundando nas tecnologias listadas a baixo
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
