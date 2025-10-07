@@ -1,9 +1,9 @@
 ### Olá, eu sou Renivaldo 👋
+### Hello, I am Renivaldo
 
-Eu sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafiose aprendizados
-Você pode me encontrar nas redes sociais abaixo:
+Systems Analysis and Development student and aspiring Systems Developer. Passionate about technology, I am in a career transition and eager to find opportunities to learn, contribute, and grow in the tech field.
 
----
+Estudante de Análise e Desenvolvimento de Sistemas e aspirante a Desenvolvedor de Sistemas. Apaixonado por tecnologia, estou em transição de carreira e ansioso por oportunidades para aprender, contribuir e crescer na área.
 
 <p align="left">
   <a href="https://linkedin.com/in/renivaldo-santos-2896aa164/" target="_blank">
